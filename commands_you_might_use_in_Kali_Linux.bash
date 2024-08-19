@@ -49,3 +49,44 @@ htop                    # Interactive process viewer
 ps aux                  # Display running processes
 kill [PID]              # Kill a process by its PID
 free -h                 # Display memory usage
+
+# User and Group Management
+sudo groupadd username              # Create a new group called "username".
+sudo usermod -aG groupname username # Add an existing user to a group.
+sudo groupdel groupname             # Delete a group.
+sudo useradd username -m -s /bin/bash # Create a new user with a home directory and bash shell.
+sudo passwd username                # Change the password for a user.
+sudo chown username                 # Change the ownership of files or directories to the specified user.
+
+# File and Directory Management
+pwd                                 #Print the current working directory.
+ls                                  # List directory contents.
+ls -lah                           # List directory contents with detailed information, including hidden files, in a human-readable format.
+ls -l                             # List directory contents in a long format.
+ls -la                            # List all files, including hidden ones, in long format.
+cd ..                             # Change to the parent directory.
+rm -rf [file or directory]        # Forcefully remove files or directories.
+touch [filename]                  # Create an empty file or update the timestamp of an existing file.
+nano [filename]                   # Open a file in the Nano text editor.
+cat [filename]                    # Display the contents of a file.
+echo [text] > [file]              # Write text to a file.
+
+# System Management
+sudo cat /etc/gshadow             # Display the contents of the /etc/gshadow file.
+sudo cat /etc/passwd              # Display the contents of the /etc/passwd file.
+sudo cat /etc/shadow              # Display the contents of the /etc/shadow file.
+sudo apt-get update               # Update package lists.
+sudo apt-get upgrade              # Upgrade all installed packages.
+sudo apt-get install [package]    # Install a new package.
+sudo visudo                       # Edit the sudoers file to configure user privileges.
+
+# Text and File Processing
+cat [filename] | grep "M"         # Search for the letter "M" in the contents of a file.
+head -n 20 [filename]             # Display the first 20 lines of a file.
+tail -n 20 [filename]             # Display the last 20 lines of a file.
+ls -la ; cat EELU.txt             # List all files in long format, then display the contents of EELU.txt.
+
+Miscellaneous
+firefox &                         # Open Firefox browser in the background.
+firefox && [command]              # Open Firefox browser and then run another command if Firefox opens successfully.
+locate EELU                       # Find the location of files or directories with the name "EELU".

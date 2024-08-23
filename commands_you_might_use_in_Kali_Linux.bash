@@ -98,3 +98,19 @@ echo "I am Mohamed" >> ./desktop/file.txt # appends the text "I am Mohamed" to t
 echo "I am Mohamed 2" > ./desktop/file.txt # writes the text "I am Mohamed 2" to the file named file.txt in the desktop directory. The > operator overwrites any existing content in the file with the new text.
 
 cat file.txt | grep "M"                    # The command cat file.txt | grep "M" displays all lines from the file.txt file that contain the letter "M." The cat command outputs the content of the file, and grep "M" filters and shows only the lines that include the letter "M."
+
+file ./*                               # List the types of files in the current directory.
+
+cat file.txt | grep -i "name website"  # Display lines from file.txt containing "name website", case-insensitive.
+
+cat file.txt | grep -i -o "name website"  # Extract only the matching parts of lines from file.txt, case-insensitive.
+
+cat file.txt | grep -i "name website" | sort -u  # Filter lines with "name website" and sort unique matches.
+
+wget http://example.com                 # Download a file from a valid URL.
+
+ps -aux                                 # List all running processes with detailed information.
+
+ps -aux | grep -i "nano"                # Filter the process list to show only those related to "nano", case-insensitive.
+
+kill -9 [process_id]                    # Terminate the process with the specified process ID forcefully.

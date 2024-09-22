@@ -77,6 +77,17 @@ Here are some additional resources to help you get started with ethical hacking:
 
 # Hacking Phase 🔓
 
+## **Table of Contents**
+
+- [Reconnaissance](#Reconnaissance) 🔗
+- [Scanning](#Scanning) 🔗
+- [Enumeration](#Enumeration) 🔗
+- [Vulnerability Exploitation](#Vulnerability-Exploitation) 🔗
+- [Penetration Testing](#penetration-testing) 🔗
+- [Reporting and Documentation](#reporting-and-documentation) 🔗
+- [Ethical Considerations](#ethical-considerations) 🔗
+- [Resources](#resources) 🔗
+
 ## **Reconnaissance**
 
    - Information Gathering: Collecting information about the target system, including IP addresses, open ports, and services running.📊

@@ -10,6 +10,7 @@
 - [Reporting and Documentation]
 - [Ethical Considerations]
 - [Resources]
+- [Mermaid]
 
 ## **Introduction**
 

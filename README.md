@@ -2,14 +2,14 @@
 
 ## **Table of Contents**
 
-- Introduction
-- Getting Started
-- Tools and Techniques
-- Vulnerability Assessment
-- Penetration Testing
-- Reporting and Documentation
-- Ethical Considerations
-- Resources
+- [Introduction]
+- [Getting Started]
+- [Tools and Techniques]
+- [Vulnerability Assessment]
+- [Penetration Testing]
+- [Reporting and Documentation]
+- [Ethical Considerations]
+- [Resources]
 
 ## **Introduction**
 

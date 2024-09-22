@@ -3,13 +3,13 @@
 ## **Table of Contents**
 
 - [Introduction](#introduction)
-- Getting Started
-- Tools and Techniques
-- Vulnerability Assessment
-- Penetration Testing
-- Reporting and Documentation
-- Ethical Considerations
-- Resources
+- [Introduction](#GettingStarted)
+- [Tools and Techniques](#ToolsandTechniques)
+- [Vulnerability Assessment](#VulnerabilityAssessment)
+- [Penetration Testing](#PenetrationTesting)
+- [Reporting and Documentation](#ReportingandDocumentation)
+- [Ethical Considerations](#EthicalConsiderations)
+- [Resources](#Resources)
 
 ## **Introduction**
 

@@ -2,14 +2,15 @@
 
 ## **Table of Contents**
 
-- [Introduction](#introduction)
-- [Introduction](#GettingStarted)
-- [Tools and Techniques](#ToolsandTechniques)
-- [Vulnerability Assessment](#VulnerabilityAssessment)
-- [Penetration Testing](#PenetrationTesting)
-- [Reporting and Documentation](#ReportingandDocumentation)
-- [Ethical Considerations](#EthicalConsiderations)
-- [Resources](#Resources)
+- [Introduction](#introduction) 🔗
+- [Getting Started](#getting-started) 🔗
+- [Tools and Techniques](#tools-and-techniques) 🔗
+- [Vulnerability Assessment](#vulnerability-assessment) 🔗
+- [Penetration Testing](#penetration-testing) 🔗
+- [Reporting and Documentation](#reporting-and-documentation) 🔗
+- [Ethical Considerations](#ethical-considerations) 🔗
+- [Resources](#resources) 🔗
+
 
 ## **Introduction**
 

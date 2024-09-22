@@ -242,15 +242,16 @@ Here are some additional resources to help you get started with ethical hacking:
 
 # Linux Commands: A Comprehensive List
 
-```cpp
 # **File and Directory Management**📁
-   - cd: Change directory. Used to navigate through the file system.
-   - mkdir: Make a directory. Used to create a new directory.
-   - rm: Remove. Used to delete files and directories.
-   - cp: Copy. Used to copy files and directories.
-   - mv: Move. Used to move or rename files and directories.
-   - ls: List. Used to list files and directories in the current directory.
-   - pwd: Print working directory. Used to display the current working directory.
+
+```cpp
+   - cd: // Change directory. Used to navigate through the file system.
+   - mkdir: // Make a directory. Used to create a new directory.
+   - rm: // Remove. Used to delete files and directories.
+   - cp: // Copy. Used to copy files and directories.
+   - mv: // Move. Used to move or rename files and directories.
+   - ls: // List. Used to list files and directories in the current directory.
+   - pwd: // Print working directory. Used to display the current working directory.
 ```
 
 # **File Editing and Viewing**

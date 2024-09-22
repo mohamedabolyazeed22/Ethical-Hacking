@@ -83,10 +83,9 @@ Here are some additional resources to help you get started with ethical hacking:
 - [Scanning](#Scanning) 🔗
 - [Enumeration](#Enumeration) 🔗
 - [Vulnerability Exploitation](#Vulnerability-Exploitation) 🔗
-- [Penetration Testing](#penetration-testing) 🔗
-- [Reporting and Documentation](#reporting-and-documentation) 🔗
-- [Ethical Considerations](#ethical-considerations) 🔗
-- [Resources](#resources) 🔗
+- [Post Exploitation](#Post-Exploitation) 🔗
+- [Maintaining Access](#Maintaining-Access) 🔗
+- [Covering Tracks](#Covering-Tracks) 🔗
 
 ## **Reconnaissance**
 
@@ -114,7 +113,7 @@ Here are some additional resources to help you get started with ethical hacking:
    - Exploit Execution: Executing exploits to gain unauthorized access or control. 🔓
 
 
-## **Post-Exploitation**
+## **Post Exploitation**
 
    - Privilege Escalation: Escalating privileges to gain greater control over the target system.🔓
    - Lateral Movement: Moving laterally within the target network to gain access to additional systems.🗺️

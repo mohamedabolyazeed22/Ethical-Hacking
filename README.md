@@ -2,7 +2,7 @@
 
 ## **Table of Contents**
 
-- Introduction
+- [Introduction](#introduction)
 - Getting Started
 - Tools and Techniques
 - Vulnerability Assessment

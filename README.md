@@ -244,37 +244,30 @@ Here are some additional resources to help you get started with ethical hacking:
 
 # **File and Directory Management**📁
 
-```bash
-  cd //Change directory. Used to navigate through the file system.
-  mkdir: Make a directory. Used to create a new directory.
-  rm: Remove. Used to delete files and directories.
-  cp: Copy. Used to copy files and directories.
-  mv: Move. Used to move or rename files and directories.
-  ls: List. Used to list files and directories in the current directory.
-  pwd: Print working directory. Used to display the current working directory.
-```
+`cd` : Change directory. Used to navigate through the file system.
+`mkdir` : Make a directory. Used to create a new directory.
+`rm` : Remove. Used to delete files and directories.
+`cp` : Copy. Used to copy files and directories.
+`mv` : Move. Used to move or rename files and directories.
+`ls` : List. Used to list files and directories in the current directory.
+`pwd` : Print working directory. Used to display the current working directory.
 
 # **File Editing and Viewing**
 
-```bash
-   nano: A text editor used to create and edit files.
-   vim: A text editor used to create and edit files.
-   cat: Concatenate and display files. Used to view the contents of a file.
-   less: Used to view the contents of a file, one page at a time.
-   more: Used to view the contents of a file, one page at a time.
-``` 
+`nano` : A text editor used to create and edit files.
+`vim` : A text editor used to create and edit files.
+`cat` : Concatenate and display files. Used to view the contents of a file.
+`less` : Used to view the contents of a file, one page at a time.
+`more` : Used to view the contents of a file, one page at a time.
 
 # **System Information and Management**
 
-```bash
-   uname: // Print system information. Used to display information about the system.
-   uptime: // Display system uptime. Used to display the system's uptime.
-   free: // Display memory and disk usage. Used to display information about the system's memory and disk usage.
-   df: // Display disk usage. Used to display information about the system's disk usage.
-   ps: // Display process information. Used to display information about running processes.
-   kill: // Kill a process. Used to terminate a running process.
-   reboot: // Reboot the system. Used to restart the system.
-   shutdown: // Shut down the system. Used to shut down the system.
- 
- ```
+`uname` : Print system information. Used to display information about the system.
+`uptime` : Display system uptime. Used to display the system's uptime.
+`free` : Display memory and disk usage. Used to display information about the system's memory and disk usage.
+`df` : Display disk usage. Used to display information about the system's disk usage.
+`ps` : Display process information. Used to display information about running processes.
+`kill` : Kill a process. Used to terminate a running process.
+`reboot` : Reboot the system. Used to restart the system.
+`shutdown` : Shut down the system. Used to shut down the system.
 

@@ -115,6 +115,22 @@ ps -aux | grep -i "nano"                # Filter the process list to show only t
 
 kill -9 [process_id]                    # Terminate the process with the specified process ID forcefully.
 
+host -t A facebook                        # Query the DNS for the A record (IP address) of facebook.com
+
+for sub in $(cat ./names.txt); do host -t A "$sub.megacorpone.com"; done  # Loop through each subdomain in 'names.txt' and query the A record for each one under megacorpone.com
+
+done
+
+host -l megacorpone.com ns2.megacorpone.com.  # Attempt a zone transfer for megacorpone.com from the specified nameserver
+
+dig +noall +answer zonetransfer.me Ns    # Query the nameservers (Ns) for zonetransfer.me without other output
+
+dig +noall +answer @nsztm2.digi.ninja. zonetransfer.me AXFR  # Attempt a zone transfer (AXFR) for zonetransfer.me from the specified nameserver
+
+dnsrecon -d grap.com -t AXFR             # Use dnsrecon to perform a zone transfer (AXFR) for the domain grap.com
+
+gpg -c --no-symkey-cache filename         # Encrypt the specified file using GPG (GNU Privacy Guard) without caching the symmetric key
+
 
 sudo nbtscan -r 192.168.208.1/24        # Scan the network for NetBIOS names
 

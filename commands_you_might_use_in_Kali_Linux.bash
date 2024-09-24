@@ -120,9 +120,11 @@ sudo nbtscan -r 192.168.208.1/24        # Scan the network for NetBIOS names
 
 sudo nbtscan -v -r 192.168.208.1/24     # Perform a detailed scan for NetBIOS names
 
-sudo smbclient //192.168.208.1/instant  # Connect to an SMB share on the server
+sudo smbclient -L 192.168.208.128  # List available SMB shares on the server at IP address 192.168.208.128
 
 sudo smbclient -L 192.168.208.1 -U (user) -P (password)  # List SMB shares on the server with user authentication
+
+sudo smbclient //192.168.208.1/instant  # Connect to an SMB share on the server
 
 nc -nvv 192.168.208.1                   # Use Netcat to scan and connect to the specified IP
 

@@ -240,7 +240,7 @@ Here are some additional resources to help you get started with ethical hacking:
 
 ---
 
-# Linux Commands: A Comprehensive List
+# Linux Commands: Basic 
 
 # **File and Directory Management**📁
 

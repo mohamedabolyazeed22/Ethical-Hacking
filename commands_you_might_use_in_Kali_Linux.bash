@@ -114,3 +114,42 @@ ps -aux                                 # List all running processes with detail
 ps -aux | grep -i "nano"                # Filter the process list to show only those related to "nano", case-insensitive.
 
 kill -9 [process_id]                    # Terminate the process with the specified process ID forcefully.
+
+
+sudo nbtscan -r 192.168.208.1/24        # Scan the network for NetBIOS names
+
+sudo nbtscan -v -r 192.168.208.1/24     # Perform a detailed scan for NetBIOS names
+
+sudo smbclient //192.168.208.1/instant  # Connect to an SMB share on the server
+
+sudo smbclient -L 192.168.208.1 -U (user) -P (password)  # List SMB shares on the server with user authentication
+
+nc -nvv 192.168.208.1                   # Use Netcat to scan and connect to the specified IP
+
+smtp-user-enum -t 192.168.208.128 -M VRFY -u msfadmin -w 20  # Verify SMTP user enumeration
+
+ls /usr/share/nmap/scripts/             # List available Nmap scripts
+
+msfconsole                              # Start Metasploit Framework Console
+
+ 1-search snmp                          # Search for SNMP exploits
+
+ 2-use (number script)                  # Use the specified exploit or auxiliary module
+
+ 3-show options                         # Display configurable options for the current module
+
+ 4-set RHOSTS 192.168.208.137           # Set the target host IP address
+
+ 5-run                                  # Execute the selected module
+
+ls -l /usr/share/wordlists/             # List available wordlists for password cracking
+
+hydra -l (username) -p (password) protocol://ip_address  # Perform a brute-force attack on a specific service
+
+hydra -L (filename user) -L (filename passwd) protocol://ip_address  # Brute-force with multiple usernames and passwords
+
+arp                                     # Display the ARP table
+
+arp -a ip_address                       # Show the ARP table for a specific IP
+
+arp -a -N ip_address                    # Display ARP table for a specific interface and IP

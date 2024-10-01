@@ -281,43 +281,49 @@ Here are some additional resources to help you get started with ethical hacking:
 - Active Assessment is a type of vulnerability assessment where active scanning tools are used to probe systems, networks, or applications for weaknesses. Unlike passive assessments, which rely on existing logs or monitoring without direct interaction, active assessments directly engage with the target environment to uncover vulnerabilities.
   
    - Tools Used in Active Assessment:
-      - Nmap: Network mapping tool for discovering hosts and services on a computer network by sending packets and analyzing responses.
-      - Nessus: Vulnerability scanner that actively checks systems for vulnerabilities such as missing patches, misconfigurations, and open ports.
-      - Burp Suite: Used for active web application security assessments, particularly for identifying issues like SQL injection, Cross-Site Scripting (XSS), etc.
-      - OWASP ZAP: Another tool for actively scanning web applications to find security vulnerabilities.
+     
+      - `Nmap:` Network mapping tool for discovering hosts and services on a computer network by sending packets and analyzing responses.
+      - `Nessus:` Vulnerability scanner that actively checks systems for vulnerabilities such as missing patches, misconfigurations, and open ports.
+      - `Burp Suite:` Used for active web application security assessments, particularly for identifying issues like SQL injection, Cross-Site Scripting (XSS), etc.
+      - `OWASP ZAP:` Another tool for actively scanning web applications to find security vulnerabilities.
 
 - Passive Assessment is a vulnerability assessment method that involves monitoring and analyzing existing system data, network traffic, and logs without directly interacting with or probing the target systems. The goal is to identify vulnerabilities or security weaknesses without causing any disruption to services or performance.
   
    - Tools Used in Passive Assessment:
-     - Wireshark: A network protocol analyzer that captures and inspects data packets traversing the network, helping identify traffic anomalies or insecure data transmission.
-     - Snort: A network intrusion detection system (NIDS) that passively monitors network traffic to detect suspicious activity.
-     - Splunk: Analyzes system and application logs to detect security issues such as unauthorized access or suspicious behavior.
-     - SolarWinds: Provides network monitoring and traffic analysis without directly probing systems.
+     
+     - `Wireshark:` A network protocol analyzer that captures and inspects data packets traversing the network, helping identify traffic anomalies or insecure data transmission.
+     - `Snort:` A network intrusion detection system (NIDS) that passively monitors network traffic to detect suspicious activity.
+     - `Splunk:` Analyzes system and application logs to detect security issues such as unauthorized access or suspicious behavior.
+     - `SolarWinds:` Provides network monitoring and traffic analysis without directly probing systems.
 
 - An External Assessment refers to the process of evaluating the security of an organization’s systems and infrastructure from an outside perspective. The goal is to identify vulnerabilities that could be exploited by attackers who do not have internal access to the network, such as hackers trying to breach the system from the internet.
 
    - Public-Facing Components:
+     
      - The focus is on systems, services, and applications that are exposed to the internet or external networks. This includes:
-     - Web applications
-     - External network interfaces
-     - Firewalls
-     - DNS servers
-     - Email servers
-     - VPN gateways
+       
+     - `Web applications`
+     - `External network interfaces`
+     - `Firewalls`
+     - `DNS servers`
+     - `Email servers`
+     - `VPN gateways`
 
    - Tools Used in External Assessment:
-     - Nmap: Network scanning tool used to identify open ports, services, and network configurations that are exposed to the internet.
-     - Nessus: A vulnerability scanner that actively scans external-facing systems for misconfigurations, missing patches, and known vulnerabilities.
-     - Burp Suite: Used for testing web applications to find vulnerabilities like SQL injection, Cross-Site Scripting (XSS), and insecure authentication mechanisms.
-     - Shodan: A search engine for finding devices and services exposed to the internet, which attackers can use to locate insecure or vulnerable systems. 
+     
+     - `Nmap:` Network scanning tool used to identify open ports, services, and network configurations that are exposed to the internet.
+     - `Nessus:` A vulnerability scanner that actively scans external-facing systems for misconfigurations, missing patches, and known vulnerabilities.
+     - `Burp Suite:` Used for testing web applications to find vulnerabilities like SQL injection, Cross-Site Scripting (XSS), and insecure authentication mechanisms.
+     - `Shodan:` A search engine for finding devices and services exposed to the internet, which attackers can use to locate insecure or vulnerable systems. 
 
 - An Internal Assessment is a type of vulnerability assessment focused on evaluating the security of an organization's internal network, systems, and devices. This assessment is conducted from within the organization's network and is designed to simulate the actions of an attacker who has already gained some level of internal access or a malicious insider.
 
     - Tools Used in Internal Assessment:
-     - Nessus: Scans internal systems for vulnerabilities such as missing patches, misconfigurations, and weak passwords.
-     - Wireshark: Captures and analyzes network traffic within the internal network to identify anomalies or insecure communication.
-     - Metasploit: Used for simulating attacks and testing vulnerabilities to see how they could be exploited within the internal environment.
-     - Microsoft Baseline Security Analyzer (MBSA): Analyzes security settings and patches for Windows systems, highlighting misconfigurations or missing updates.
+      
+     - `Nessus:` Scans internal systems for vulnerabilities such as missing patches, misconfigurations, and weak passwords.
+     - `Wireshark:` Captures and analyzes network traffic within the internal network to identify anomalies or insecure communication.
+     - `Metasploit:` Used for simulating attacks and testing vulnerabilities to see how they could be exploited within the internal environment.
+     - `Microsoft Baseline Security Analyzer (MBSA):` Analyzes security settings and patches for Windows systems, highlighting misconfigurations or missing updates.
 
    ## **1. Network Vulnerability Assessment**
 

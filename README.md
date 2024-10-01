@@ -297,7 +297,7 @@ Here are some additional resources to help you get started with ethical hacking:
 
     - Tools like Qualys or Tenable can perform this type of scan.
 
-   3. Web Application Vulnerability Assessment
+   ## **3. Web Application Vulnerability Assessment**
 
     - Focuses on web applications to identify security flaws such as SQL injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and improper session handling.
 
@@ -313,7 +313,7 @@ Here are some additional resources to help you get started with ethical hacking:
 
     - Tools like DBProtect and SQLmap are often used for this purpose.
 
-   5. Wireless Network Vulnerability Assessment
+   ## **5. Wireless Network Vulnerability Assessment**
 
     - Focuses on identifying weaknesses in wireless networks (Wi-Fi).
 
@@ -322,60 +322,60 @@ Here are some additional resources to help you get started with ethical hacking:
     - Tools like Aircrack-ng and Kismet are used for wireless network analysis.
 
 
-   6. Mobile Application Vulnerability Assessment
+   ## **6. Mobile Application Vulnerability Assessment**
 
-    - Focuses on identifying security vulnerabilities in mobile apps (iOS or Android).
+   - Focuses on identifying security vulnerabilities in mobile apps (iOS or Android).
 
-- It checks for issues like insecure storage, weak authentication, and insecure data transmission.
+   - It checks for issues like insecure storage, weak authentication, and insecure data transmission.
 
-- Tools like MobSF and Drozer are commonly used in mobile app testing.
+   - Tools like MobSF and Drozer are commonly used in mobile app testing.
 
-7. Cloud Vulnerability Assessment
+   ## **7. Cloud Vulnerability Assessment**
 
-- Focuses on cloud-based infrastructure, services, and applications.
+    - Focuses on cloud-based infrastructure, services, and applications.
 
-- Assesses misconfigurations, weak access controls, and data exposure issues in cloud environments like AWS, Azure, or Google Cloud.
+    - Assesses misconfigurations, weak access controls, and data exposure issues in cloud environments like AWS, Azure, or Google Cloud.
 
-- Tools like CloudSploit and Prowler are used for scanning cloud infrastructures.
+    - Tools like CloudSploit and Prowler are used for scanning cloud infrastructures.
 
-8. IoT (Internet of Things) Vulnerability Assessment
+   ## **8. IoT (Internet of Things) Vulnerability Assessment**
 
-- Focuses on identifying vulnerabilities in IoT devices, which are often less secure and more prone to attacks.
+    - Focuses on identifying vulnerabilities in IoT devices, which are often less secure and more prone to attacks.
 
-- Checks for default credentials, insecure communication, and software vulnerabilities in connected devices.
+    - Checks for default credentials, insecure communication, and software vulnerabilities in connected devices.
 
-- Tools like IoT Inspector are used for IoT vulnerability assessment.
+    - Tools like IoT Inspector are used for IoT vulnerability assessment.
 
-9. Social Engineering Vulnerability Assessment
+   ## **9. Social Engineering Vulnerability Assessment**
 
-- Tests the human element of an organization by simulating phishing attacks or other social engineering tactics to identify security weaknesses in employees’ behavior.
+    - Tests the human element of an organization by simulating phishing attacks or other social engineering tactics to identify security weaknesses in employees’ behavior.
 
-- Tools like PhishMe and KnowBe4 are used to simulate attacks and raise awareness.
+    - Tools like PhishMe and KnowBe4 are used to simulate attacks and raise awareness.
 
-10. Physical Security Vulnerability Assessment
+   ## **10. Physical Security Vulnerability Assessment**
 
-- Focuses on assessing the physical security controls of an organization, such as access controls, surveillance, and on-site security systems.
+    - Focuses on assessing the physical security controls of an organization, such as access controls, surveillance, and on-site security systems.
 
-- Identifies weaknesses that could allow unauthorized individuals to physically access sensitive areas or devices.
+    - Identifies weaknesses that could allow unauthorized individuals to physically access sensitive areas or devices.
 
-Summary:
+## **Summary:**
 
-- Network: Focuses on network devices and protocols.
+  - Network: Focuses on network devices and protocols.
 
-- Host: Targets individual systems.
+  - Host: Targets individual systems.
 
-- Web Application: Finds vulnerabilities in web apps.
+  - Web Application: Finds vulnerabilities in web apps.
 
-- Database: Assesses database security.
+  - Database: Assesses database security.
 
-- Wireless: Targets wireless networks.
+  - Wireless: Targets wireless networks.
 
-- Mobile Application: Focuses on mobile apps.
+  - Mobile Application: Focuses on mobile apps.
 
-- Cloud: Scans cloud environments.
+  - Cloud: Scans cloud environments.
 
-- IoT: Assesses vulnerabilities in IoT devices.
+  - IoT: Assesses vulnerabilities in IoT devices.
 
-- Social Engineering: Tests human behavior against phishing or social attacks.
+  - Social Engineering: Tests human behavior against phishing or social attacks.
 
-- Physical Security: Evaluates the security of physical premises.
+  - Physical Security: Evaluates the security of physical premises.

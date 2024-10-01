@@ -297,8 +297,7 @@ Here are some additional resources to help you get started with ethical hacking:
 - An External Assessment refers to the process of evaluating the security of an organization’s systems and infrastructure from an outside perspective. The goal is to identify vulnerabilities that could be exploited by attackers who do not have internal access to the network, such as hackers trying to breach the system from the internet.
 
    - Public-Facing Components:
-
-    - The focus is on systems, services, and applications that are exposed to the internet or external networks. This includes:
+     - The focus is on systems, services, and applications that are exposed to the internet or external networks. This includes:
      - Web applications
      - External network interfaces
      - Firewalls
@@ -306,7 +305,7 @@ Here are some additional resources to help you get started with ethical hacking:
      - Email servers
      - VPN gateways
 
-    - Tools Used in External Assessment:
+   - Tools Used in External Assessment:
      - Nmap: Network scanning tool used to identify open ports, services, and network configurations that are exposed to the internet.
      - Nessus: A vulnerability scanner that actively scans external-facing systems for misconfigurations, missing patches, and known vulnerabilities.
      - Burp Suite: Used for testing web applications to find vulnerabilities like SQL injection, Cross-Site Scripting (XSS), and insecure authentication mechanisms.

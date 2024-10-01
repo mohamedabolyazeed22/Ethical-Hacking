@@ -271,3 +271,13 @@ Here are some additional resources to help you get started with ethical hacking:
 - `reboot` : Reboot the system. Used to restart the system.
 - `shutdown` : Shut down the system. Used to shut down the system.
 
+
+ ---
+
+## **Vulnerability Assessment**
+
+ - There are several types of vulnerability assessments based on the scope, objectives, and targets. Each type serves a specific purpose in identifying security weaknesses across different layers of an organization’s infrastructure.
+
+
+
+

@@ -280,7 +280,7 @@ Here are some additional resources to help you get started with ethical hacking:
 
  - There are several types of vulnerability assessments based on the scope, objectives, and targets. Each type serves a specific purpose in identifying security weaknesses across different layers of an organization’s infrastructure.
 
-   1. Network Vulnerability Assessment
+   ## **1. Network Vulnerability Assessment**
 
     - Focuses on identifying vulnerabilities within the network infrastructure, including routers, switches, firewalls, and servers.
 
@@ -288,7 +288,8 @@ Here are some additional resources to help you get started with ethical hacking:
 
     - Common findings include open ports, insecure network protocols, and unpatched systems.
 
-   2. Host-Based Vulnerability Assessment
+
+   ## **2. Host-Based Vulnerability Assessment**
 
     - Targets individual systems (such as computers and servers) to identify security weaknesses.
 

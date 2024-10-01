@@ -278,7 +278,7 @@ Here are some additional resources to help you get started with ethical hacking:
 
 ## **Vulnerability Assessment**
 
-- Active Assessment is a type of vulnerability assessment where active scanning tools are used to probe systems, networks, or applications for weaknesses. Unlike passive assessments, which rely on existing logs or monitoring without direct interaction, active assessments directly engage with the target environment to uncover vulnerabilities.
+- `Active Assessment` is a type of vulnerability assessment where active scanning tools are used to probe systems, networks, or applications for weaknesses. Unlike passive assessments, which rely on existing logs or monitoring without direct interaction, active assessments directly engage with the target environment to uncover vulnerabilities.
   
    - Tools Used in Active Assessment:
      
@@ -287,7 +287,7 @@ Here are some additional resources to help you get started with ethical hacking:
       - `Burp Suite:` Used for active web application security assessments, particularly for identifying issues like SQL injection, Cross-Site Scripting (XSS), etc.
       - `OWASP ZAP:` Another tool for actively scanning web applications to find security vulnerabilities.
 
-- Passive Assessment is a vulnerability assessment method that involves monitoring and analyzing existing system data, network traffic, and logs without directly interacting with or probing the target systems. The goal is to identify vulnerabilities or security weaknesses without causing any disruption to services or performance.
+- `Passive Assessment` is a vulnerability assessment method that involves monitoring and analyzing existing system data, network traffic, and logs without directly interacting with or probing the target systems. The goal is to identify vulnerabilities or security weaknesses without causing any disruption to services or performance.
   
    - Tools Used in Passive Assessment:
      
@@ -296,7 +296,7 @@ Here are some additional resources to help you get started with ethical hacking:
      - `Splunk:` Analyzes system and application logs to detect security issues such as unauthorized access or suspicious behavior.
      - `SolarWinds:` Provides network monitoring and traffic analysis without directly probing systems.
 
-- An External Assessment refers to the process of evaluating the security of an organization’s systems and infrastructure from an outside perspective. The goal is to identify vulnerabilities that could be exploited by attackers who do not have internal access to the network, such as hackers trying to breach the system from the internet.
+- `External Assessment` refers to the process of evaluating the security of an organization’s systems and infrastructure from an outside perspective. The goal is to identify vulnerabilities that could be exploited by attackers who do not have internal access to the network, such as hackers trying to breach the system from the internet.
 
    - Public-Facing Components:
      
@@ -316,7 +316,7 @@ Here are some additional resources to help you get started with ethical hacking:
      - `Burp Suite:` Used for testing web applications to find vulnerabilities like SQL injection, Cross-Site Scripting (XSS), and insecure authentication mechanisms.
      - `Shodan:` A search engine for finding devices and services exposed to the internet, which attackers can use to locate insecure or vulnerable systems. 
 
-- An Internal Assessment is a type of vulnerability assessment focused on evaluating the security of an organization's internal network, systems, and devices. This assessment is conducted from within the organization's network and is designed to simulate the actions of an attacker who has already gained some level of internal access or a malicious insider.
+- `Internal Assessment` is a type of vulnerability assessment focused on evaluating the security of an organization's internal network, systems, and devices. This assessment is conducted from within the organization's network and is designed to simulate the actions of an attacker who has already gained some level of internal access or a malicious insider.
 
     - Tools Used in Internal Assessment:
       
@@ -405,22 +405,22 @@ Here are some additional resources to help you get started with ethical hacking:
 
 ## **Summary:**
 
-  - Network: Focuses on network devices and protocols.
+  - `Network:` Focuses on network devices and protocols.
 
-  - Host: Targets individual systems.
+  - `Host:` Targets individual systems.
 
-  - Web Application: Finds vulnerabilities in web apps.
+  - `Web Application:` Finds vulnerabilities in web apps.
 
-  - Database: Assesses database security.
+  - `Database:` Assesses database security.
 
-  - Wireless: Targets wireless networks.
+  - `Wireless:` Targets wireless networks.
 
-  - Mobile Application: Focuses on mobile apps.
+  - `Mobile Application:` Focuses on mobile apps.
 
-  - Cloud: Scans cloud environments.
+  - `Cloud:` Scans cloud environments.
 
-  - IoT: Assesses vulnerabilities in IoT devices.
+  - `IoT:` Assesses vulnerabilities in IoT devices.
 
-  - Social Engineering: Tests human behavior against phishing or social attacks.
+  - `Social Engineering:` Tests human behavior against phishing or social attacks.
 
-  - Physical Security: Evaluates the security of physical premises.
+  - `Physical Security:` Evaluates the security of physical premises.

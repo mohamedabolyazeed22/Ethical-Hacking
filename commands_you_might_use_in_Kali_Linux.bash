@@ -171,3 +171,8 @@ arp                                     # Display the ARP table
 arp -a ip_address                       # Show the ARP table for a specific IP
 
 arp -a -N ip_address                    # Display ARP table for a specific interface and IP
+
+sudo docker logs <container-id>         # Displays the logs of the specified container
+
+sudo docker run -it fedora              # Starts a new Fedora container interactively
+ 

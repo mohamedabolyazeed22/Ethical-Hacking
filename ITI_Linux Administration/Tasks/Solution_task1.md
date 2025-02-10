@@ -96,13 +96,3 @@ man 5 passwd
 apropos passwd
 ```
 
-## 🎯 Summary of Key Concepts
-- File system navigation and manipulation
-- User management and information retrieval
-- Directory creation and removal
-- File operations (copy, rename)
-- Command documentation and manual pages
-- Text file viewing and manipulation
-
----
-*Note: All commands were tested in a Linux environment and follow standard Unix/Linux conventions.*

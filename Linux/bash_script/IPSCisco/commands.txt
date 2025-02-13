@@ -1,0 +1,4 @@
+wget www.cisco.com
+
+cat index.html | grep "href=" | cut -d"/" -f3 | cut -d '"' -f1 | grep "cisco" | sort -u > cisco.txt
+

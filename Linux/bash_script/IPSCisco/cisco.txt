@@ -1,0 +1,13 @@
+blogs.cisco.com
+ciscocx.qualtrics.com
+ciscosystemsinc.tt.omtrdc.net
+com.cisco.androidcisco
+community.cisco.com
+engage2demand.cisco.com
+newsroom.cisco.com
+smetrics.cisco.com
+software.cisco.com
+target.cisco.com
+transform.cisco.com
+u.cisco.com
+www.cisco.com

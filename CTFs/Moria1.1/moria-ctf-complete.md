@@ -33,7 +33,7 @@ This writeup documents our journey through the Moria CTF challenge, where we'll 
 # Initial discovery
 sudo netdiscover -r 192.168.1.0/24
 ```
-![Network Discovery](/media/Discovery.png)
+![Network Discovery](media/Discovery.png)
 *Finding our target in the digital mines*
 
 ### 📡 Port Scanning

